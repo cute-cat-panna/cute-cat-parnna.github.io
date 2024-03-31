@@ -1515,7 +1515,7 @@ a:hover {
 #site-name,
 #aside-content .author-info__name,
 #aside-content .author-info__description {
-  font-family: 糊涂猫的小站;
+  font-family: LanaPixel;
 }
 .is-center {
   text-align: center;
@@ -1996,7 +1996,7 @@ figure.highlight pre .javascript .function {
   height: 100%;
   vertical-align: top;
   text-align: center;
-  font-family: 糊涂猫的小站;
+  font-family: LanaPixel;
 }
 @media screen and (max-width: 768px) {
   .error404 #error-wrap .error-content .error-info {

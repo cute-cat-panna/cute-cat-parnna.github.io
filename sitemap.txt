@@ -18,5 +18,5 @@ http://example.com/movies/index.html
 http://example.com/
 http://example.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/
 http://example.com/tags/%E6%8A%80%E6%9C%AF/
-http://example.com/tags/%E8%AE%BE%E8%AE%A1/
 http://example.com/tags/%E7%94%9F%E6%B4%BB/
+http://example.com/tags/%E8%AE%BE%E8%AE%A1/

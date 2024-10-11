@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.parnna.site/2024/10/11/All-textures/</loc>
+    
+    <lastmod>2024-10-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.parnna.site/2024/05/19/%E6%96%87%E7%AB%A0%E7%BD%AE%E9%A1%B6/</loc>
+    
+    <lastmod>2024-10-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://www.parnna.site/2024/10/06/confyUIinpaint/</loc>
     
-    <lastmod>2024-10-06</lastmod>
+    <lastmod>2024-10-11</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -23,15 +41,6 @@
     <loc>http://www.parnna.site/movies/index.html</loc>
     
     <lastmod>2024-08-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.parnna.site/2024/05/19/%E6%96%87%E7%AB%A0%E7%BD%AE%E9%A1%B6/</loc>
-    
-    <lastmod>2024-08-01</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -184,36 +193,36 @@
 
   <url>
     <loc>http://www.parnna.site/</loc>
-    <lastmod>2024-10-06</lastmod>
+    <lastmod>2024-10-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
+    <loc>http://www.parnna.site/tags/%E8%AE%BE%E8%AE%A1/</loc>
+    <lastmod>2024-10-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://www.parnna.site/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</loc>
-    <lastmod>2024-10-06</lastmod>
+    <lastmod>2024-10-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://www.parnna.site/tags/%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2024-10-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.parnna.site/tags/%E8%AE%BE%E8%AE%A1/</loc>
-    <lastmod>2024-10-06</lastmod>
+    <lastmod>2024-10-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://www.parnna.site/tags/%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2024-10-06</lastmod>
+    <lastmod>2024-10-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

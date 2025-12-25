@@ -1384,7 +1384,7 @@ body {
   background: var(--global-bg);
   color: var(--font-color);
   font-size: var(--global-font-size);
-  font-family: PingFang SC, 'Hiragino Sans GB', 'Microsoft JhengHei', 'Microsoft YaHei', sans-serif, Titillium Web;
+  font-family: YEFONTXiaoShiTou,ZCOOL KuaiLe, PingFang SC, 'Hiragino Sans GB', 'Microsoft JhengHei', 'Microsoft YaHei', sans-serif, Titillium Web;
   line-height: 2;
   -webkit-tap-highlight-color: rgba(0,0,0,0);
 }
@@ -1515,7 +1515,7 @@ a:hover {
 #site-name,
 #aside-content .author-info__name,
 #aside-content .author-info__description {
-  font-family: PingFang SC;
+  font-family: YEFONTXiaoShiTou;
 }
 .is-center {
   text-align: center;
@@ -1996,7 +1996,7 @@ figure.highlight pre .javascript .function {
   height: 100%;
   vertical-align: top;
   text-align: center;
-  font-family: PingFang SC;
+  font-family: YEFONTXiaoShiTou;
 }
 @media screen and (max-width: 768px) {
   .error404 #error-wrap .error-content .error-info {
